@@ -10,3 +10,7 @@ git commit -m "first commit"
 git remote add origin https://github.com/tilek-94/poekt.git
 git push -u origin master
 
+
+git clone https://github.com/tilek-94/poekt.git
+
+git status
