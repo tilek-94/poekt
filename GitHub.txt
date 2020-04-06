@@ -1,0 +1,12 @@
+git --version гитхабты версиясын текшерет
+git init проекти иницализация кылат
+
+https://github.com/tilek-94/poekt.git
+
+echo "# poekt" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/tilek-94/poekt.git
+git push -u origin master
+
