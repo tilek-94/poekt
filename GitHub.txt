@@ -18,6 +18,6 @@ git status огорудубу текшерет
 git add .
 git commit -m "first commit"
 git push
-sdfsdfsd
-dsfsdfds
-dsfdsf
+
+----------------
+git pull Кирген маалыматтарды башка бироо киргизген болсо добавить этет
